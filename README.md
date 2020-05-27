@@ -1,3 +1,3 @@
 # testTaskForBrainsForSale
-cd TestTask 
+cd TestTask and
 node test.js
